@@ -36,6 +36,7 @@ var splashText = [
 	"Drink Up Witches!",
 	"If You’ve Got It, Haunt it",
 	"Don’t Make Me Get The Flying Monkeys"
+	"It's all just a bunch of hocus pocus!"
 ];
 
 
